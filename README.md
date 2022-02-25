@@ -25,37 +25,16 @@ recommended to leave. The user can round up the received amount.
 
 At the beginning:
 
-<img src="screenshots/screenshot_main.png" alt="screenshot_main" style="width:231px;height:500px;">
+![screenshot_input_not_round](https://user-images.githubusercontent.com/91304837/155702187-d6e7e643-e71b-4795-a0a6-772ca75fcf7c.png)
 
 After click on the "CALCULATE" button (with round up):
 
-<img src="screenshots/screenshot_input_round.png" alt="screenshot_input_round" style="width:231px;height:500px;">
+
+![screenshot_input_round](https://user-images.githubusercontent.com/91304837/155702281-b5459cad-d4bb-4696-81cf-65d0b32f112d.png)
 
 After click on the "CALCULATE" button (without round up):
 
-<img src="screenshots/screenshot_input_not_round.png" alt="screenshot_input_not_round" style="width:231px;height:500px;">
-
-## Technologies
-
-- The programming
-  language [Kotlin](https://kotlinlang.org/) ([AdoptOpenJDK version 11.0.10](https://adoptopenjdk.net/))
-  was chosen for development.
-
-- Development was carried out in [Android Studio](https://developer.android.com/studio/).
-
-- [Figma](https://www.figma.com/) was used to prototype the user interface.
-
-- [WakaTime](https://wakatime.com/) was used to track activity.
-
-- [Microsoft To Do](https://todo.microsoft.com/tasks/) was used to schedule tasks.
-
-## Development progress
-
-Development of the project began on **September 4, 2021** and completed on **September 9, 2021**.
-
-*Since I am developing this project mainly alone, I see no reason to
-use [Trello](https://trello.com/).*
-
+![screenshot_main](https://user-images.githubusercontent.com/91304837/155702327-13267fe7-0dd6-4f5e-9135-64fed31a99f4.png)
 
 ## How to install
 
