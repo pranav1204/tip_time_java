@@ -58,11 +58,6 @@ Development of the project began on **September 4, 2021** and completed on **Sep
 *Since I am developing this project mainly alone, I see no reason to
 use [Trello](https://trello.com/).*
 
-## Project statistics
-
-[![wakatime](https://wakatime.com/badge/github/VitasSalvantes/TipTime.svg)](https://wakatime.com/badge/github/VitasSalvantes/TipTime)
-
-See more on [WakaTime](https://wakatime.com/@VitasSalvantes/projects/ewilmagluv).
 
 ## How to install
 
