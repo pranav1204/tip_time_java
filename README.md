@@ -1,7 +1,5 @@
 # TipTime
 
-[![current version](https://img.shields.io/badge/current_version-1.0-green)](#TipTime)
-
 This is a simple tip calculator app for Android that was created as part of
 course [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 by Google.
